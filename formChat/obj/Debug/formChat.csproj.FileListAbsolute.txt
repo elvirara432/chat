@@ -1,0 +1,9 @@
+F:\chat\formChat\bin\Debug\formChat.exe.config
+F:\chat\formChat\bin\Debug\formChat.exe
+F:\chat\formChat\bin\Debug\formChat.pdb
+F:\chat\formChat\obj\Debug\formChat.csprojResolveAssemblyReference.cache
+F:\chat\formChat\obj\Debug\formChat.Form1.resources
+F:\chat\formChat\obj\Debug\formChat.Properties.Resources.resources
+F:\chat\formChat\obj\Debug\formChat.csproj.GenerateResource.Cache
+F:\chat\formChat\obj\Debug\formChat.exe
+F:\chat\formChat\obj\Debug\formChat.pdb

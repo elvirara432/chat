@@ -1,0 +1,6 @@
+F:\chat\chat\bin\chat.dll.config
+F:\chat\chat\bin\chat.dll
+F:\chat\chat\bin\chat.pdb
+F:\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+F:\chat\chat\obj\Debug\chat.dll
+F:\chat\chat\obj\Debug\chat.pdb
